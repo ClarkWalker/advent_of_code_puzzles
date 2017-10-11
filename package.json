@@ -1,0 +1,23 @@
+{
+  "name": "advent_of_code_puzzles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Day_1_Not_Quite_Lisp/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClarkWalker/advent_of_code_puzzles.git"
+  },
+  "author": "Clark Walker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ClarkWalker/advent_of_code_puzzles/issues"
+  },
+  "homepage": "https://github.com/ClarkWalker/advent_of_code_puzzles#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1"
+  }
+}
