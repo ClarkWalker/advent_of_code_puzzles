@@ -5,7 +5,7 @@ const badDirections = `()(((()))(()()()((((()(((())(()(()((((((()(()(((())))((()
   badDirections.split(``);
   for (var i = 0; i < badDirections.length; i++) {
     if (badDirections[i] === `(`) {floor++;}
-     else if (badDirections[i] === `)`) {floor--;}
+    else if (badDirections[i] === `)`) {floor--;}
   }
   console.log(floor);
 }
